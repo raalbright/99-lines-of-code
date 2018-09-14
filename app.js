@@ -21,7 +21,7 @@ const sing = (name) => {
 
         if (i === 2) {
             lyric = i + ' line of code in the file, ' + i + ' line of code; ' + name +
-            ' strikes one out, clears it all out, no more lines of code in the file.';
+            ' strikes one out, clears it all out, 1 line of code in the file.';
         } else if (i === 1) {
             lyric = i + ' line of code in the file, ' + i + ' line of code; ' + name +
                 ' strikes one out, clears it all out, no more lines of code in the file.';
