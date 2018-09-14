@@ -1,7 +1,10 @@
-body { background-color: goldenrod; }
+body { 
+    background-color: goldenrod;
+    margin: 0;
+}
 
 h1 { color: honeydew; }
 
 .friend { background-color: lightblue; }
 
-h3 { text-transform: uppercase; }
+.friend h3 { text-transform: uppercase; }
